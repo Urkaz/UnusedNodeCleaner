@@ -2,7 +2,7 @@
 name: Bug report
 about: Create a report to help the plugin
 title: ''
-labels: bug
+labels: bug, pending
 assignees: Urkaz
 
 ---
