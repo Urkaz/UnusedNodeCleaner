@@ -1,4 +1,4 @@
-![Banner Unused Node Cleaner](https://user-images.githubusercontent.com/521864/161402480-c47cf060-57f8-4478-915c-910793ac35e2.png)
+![Logo Unused Node Cleaner](https://user-images.githubusercontent.com/521864/161403833-2de0e36b-2acb-48f4-b7d0-7ce002cd6cce.gif)
 
 # Unused Node Cleaner
 "Unused Node Cleaner" allows you to clean your blueprints from unused nodes that someone left somewhere and are still there to just distract you.
