@@ -20,9 +20,7 @@ And if you have some problem using the plugin or want to give some feedback, ple
 Engine Version | Plugin Version | Support
 -------------- | -------------- | ----
 UE 4.27 | v1.0 | ✅
-UE 5.0 | v1.0 | ✅*
-
-\* Check the [FAQ](https://github.com/Urkaz/UnusedNodeCleaner/wiki/FAQ#unreal-engine-5-support) for more details!
+UE 5.0 | v1.0 | ✅
 
 ## Changelog
   
