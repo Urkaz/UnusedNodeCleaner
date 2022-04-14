@@ -23,7 +23,14 @@ UE 4.27 | v1.0 | ✅
 UE 5.0 | v1.0 | ✅
 
 ## Changelog
-  
+
+**Version 1.1**
+- Bug Fixes:
+   - Button visibility on Breakpoint.
+   - Node appearance when using Ctrl+Z to undo operations.
+   - Composite Node handling.
+   - Incorrect focused graph when viewing sub graphs.
+
 **Version 1.0**
 - Features:
    - "Clean Graph" button to remove unused nodes.
