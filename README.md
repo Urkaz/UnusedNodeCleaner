@@ -24,6 +24,15 @@ UE 5.0 | v1.1 | ✅
 
 ## Changelog
 
+**Version 1.2 (unreleased)**
+- Bug Fixes:
+   - Some "pure" macro nodes were treated as unused.
+- Performance:
+   - Optimize Composite Nodes handling.
+   - Optimize node type filtering to avoid.
+- New:
+   - Animation Blueprint Event Graph support. (AnimGraph will be supported in a future update).
+
 **Version 1.1**
 - Bug Fixes:
    - Button visibility on Breakpoint.
