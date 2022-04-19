@@ -24,7 +24,7 @@ UE 5.0 | v1.1 | ✅
 
 ## Changelog
 
-**Version 1.2 (unreleased)**
+**Version 1.2 (under review)**
 - Bug Fixes:
    - Some "pure" macro nodes were treated as unused.
 - Performance:
