@@ -19,8 +19,8 @@ And if you have some problem using the plugin or want to give some feedback, ple
 
 Engine Version | Plugin Version | Support
 -------------- | -------------- | ----
-UE 4.27 | v1.2 | ✅
-UE 5.0 | v1.2 | ✅
+UE 4.27 | v1.3 | ✅
+UE 5.0 | v1.3 | ✅
 
 ## Changelog
 
@@ -30,7 +30,7 @@ UE 5.0 | v1.2 | ✅
    - Animation Blueprint State Machine support.
    - Behavior Tree and EQS Graph support.
 
-**Version 1.3 (under review)**
+**Version 1.3**
 - Bug Fixes:
    - Fix Composite Node Event detection.
 
