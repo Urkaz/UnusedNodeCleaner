@@ -24,12 +24,6 @@ UE 5.0 | v1.3 | ✅
 
 ## Changelog
 
-**Version 1.4 (In development)**
-- New:
-   - Animation Blueprint AnimGraph support.
-   - Animation Blueprint State Machine support.
-   - Behavior Tree and EQS Graph support.
-
 **Version 1.3**
 - Bug Fixes:
    - Fix Composite Node Event detection.
