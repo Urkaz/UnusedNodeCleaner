@@ -35,7 +35,7 @@ UE 5.0 | v1.3 | ✅
    - Optimize Composite Nodes handling.
    - Optimize node type filtering to avoid.
 - New:
-   - Animation Blueprint Event Graph support. (AnimGraph will be supported in a future update).
+   - Animation Blueprint Event Graph support.
 
 **Version 1.1**
 - Bug Fixes:
