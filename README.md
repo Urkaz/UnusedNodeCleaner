@@ -19,14 +19,16 @@ And if you have some problem using the plugin or want to give some feedback, ple
 
 Engine Version | Plugin Version | Support
 -------------- | -------------- | ----
-UE 4.25 | v1.3 | ⚠
-UE 4.26 | v1.3 | ✅
-UE 4.27 | v1.3 | ✅
-UE 5.0 | v1.3 | ✅
+UE 5.0 | v1.4 | ✅
+UE 4.27 | v1.4 | ✅
+UE 4.26 | v1.4 | ✅
+UE 4.25 (or previous) | v1.4 | ⚠*
+
+⚠* You can download the plugin using a different Engine version and remove the "EngineVersion" line in the .uplugin file.
 
 ## Changelog
 
-**Version 1.4 (WIP)**
+**Version 1.4**
 - Bug Fixes:
    - Fix Comment nodes being deleted.
 
