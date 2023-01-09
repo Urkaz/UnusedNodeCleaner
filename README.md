@@ -23,7 +23,7 @@ UE 5.1 | v1.4 | ✅
 UE 5.0 | v1.4 | ✅
 UE 4.27 | v1.4 | ✅
 UE 4.26 | v1.4 | ✅
-UE 4.25 (or previous) | v1.4 | ⚠*
+UE 4.25 (or previous) | --- | ⚠*
 
 ⚠* You can download the plugin using a different Engine version and remove the "EngineVersion" line in the .uplugin file.
 
