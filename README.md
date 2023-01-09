@@ -17,8 +17,9 @@ And if you have some problem using the plugin or want to give some feedback, ple
 
 ## Compatible Engine Version
 
-Engine Version | Plugin Version | Support
+Engine Version | Marketplace Version | Support
 -------------- | -------------- | ----
+UE 5.1 | v1.4 | ✅
 UE 5.0 | v1.4 | ✅
 UE 4.27 | v1.4 | ✅
 UE 4.26 | v1.4 | ✅
