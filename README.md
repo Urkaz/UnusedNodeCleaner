@@ -19,15 +19,20 @@ And if you have some problem using the plugin or want to give some feedback, ple
 
 Engine Version | Marketplace Version | Support
 -------------- | -------------- | ----
-UE 5.1 | v1.4 | ✅
-UE 5.0 | v1.4 | ✅
-UE 4.27 | v1.4 | ✅
-UE 4.26 | v1.4 | ✅
-UE 4.25 (or previous) | --- | ⚠*
+UE 5.1 | v1.5 | ✅
+UE 5.0 | v1.5 | ✅
+UE 4.27 | v1.5 | ✅
+UE 4.26 | v1.4 | ⚠*
+UE 4.25 (or previous) | --- | ⚠**
 
-⚠* You can download the plugin using a different Engine version and remove the "EngineVersion" line in the .uplugin file.
+⚠* v1.4 Available on the Marketplace. v1.5 can be obtained by downloading the plugin using a different Engine version and removing the "EngineVersion" line in the .uplugin file.
+⚠** v1.5 can be obtained by downloading the plugin using a different Engine version and removing the "EngineVersion" line in the .uplugin file.
 
 ## Changelog
+
+**Version 1.5**
+- Bug Fixes:
+   - Fix Timeline component nodes being deleted if not connected to anything.
 
 **Version 1.4**
 - Bug Fixes:
