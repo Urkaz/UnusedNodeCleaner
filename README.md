@@ -34,6 +34,7 @@ UE 4.25 (or previous) | --- | ⚠**
 **Version 1.5**
 - Bug Fixes:
    - Fix Timeline component nodes being deleted if not connected to anything.
+   - Fix build error on Debug configuraiton.
 
 **Version 1.4**
 - Bug Fixes:
