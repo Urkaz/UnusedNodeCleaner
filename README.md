@@ -7,7 +7,7 @@
 
 ## How to use
 
-**Unused Node Cleaner** can be bought from the [Unreal Engine marketplace](https://www.unrealengine.com/marketplace/en-US/slug/unused-node-cleaner).
+**Unused Node Cleaner** can be purchased on the [Unreal Engine marketplace](https://www.unrealengine.com/marketplace/en-US/slug/unused-node-cleaner).
 
 The plugin only adds two buttons to the Blueprint editor, but you can find more information and see it in action on the wiki [Getting started](https://github.com/Urkaz/UnusedNodeCleaner/wiki/Getting-started).
 
