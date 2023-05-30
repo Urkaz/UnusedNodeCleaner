@@ -19,6 +19,7 @@ And if you have some problem using the plugin or want to give some feedback, ple
 
 Engine Version | Marketplace Version | Support
 -------------- | -------------- | ----
+UE 5.2 | v1.5 | ✅
 UE 5.1 | v1.5 | ✅
 UE 5.0 | v1.5 | ✅
 UE 4.27 | v1.5 | ✅
