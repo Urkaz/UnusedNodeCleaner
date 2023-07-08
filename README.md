@@ -3,7 +3,7 @@
 # Unused Node Cleaner
 "Unused Node Cleaner" allows you to clean your blueprints from unused nodes that someone left somewhere and are still there to just distract you.
 
-**WARNING:** While the "Hide Unused" toggle is on, the plugin will disable the "Hide Unrelated" feature as te plugin uses the same engine functions to make the nodes fade out.
+**WARNING:** While the "Hide Unused" toggle is on, the plugin will disable the "Hide Unrelated" feature as the plugin uses the same engine functions to make the nodes fade out.
 
 ## How to use
 
@@ -11,31 +11,20 @@
 
 The plugin only adds two buttons to the Blueprint editor, but you can find more information and see it in action on the wiki [Getting started](https://github.com/Urkaz/UnusedNodeCleaner/wiki/Getting-started).
 
-You can find answers for some frequently questions on the wiki: [FAQ](https://github.com/Urkaz/UnusedNodeCleaner/wiki/FAQ).
+You can find answers to some frequent questions on the wiki: [FAQ](https://github.com/Urkaz/UnusedNodeCleaner/wiki/FAQ).
 
-And if you have some problem using the plugin or want to give some feedback, please create a new [Issue](https://github.com/Urkaz/UnusedNodeCleaner/issues/new/choose).
+And if you have some problems using the plugin or want to give some feedback, please create a new [Issue](https://github.com/Urkaz/UnusedNodeCleaner/issues/new/choose).
 
 ## Compatible Engine Version
 
-Engine Version | Marketplace Version | Support
--------------- | -------------- | ----
-UE 5.2 | v1.5 | ✅
-UE 5.1 | v1.5 | ✅
-UE 5.0 | v1.5 | ✅
-UE 4.27 | v1.5 | ✅
-UE 4.26 | v1.4 | ⚠*
-UE 4.25 (or previous) | --- | ⚠**
-
-⚠* v1.4 Available on the Marketplace. v1.5 can be obtained by downloading the plugin using a different Engine version and removing the "EngineVersion" line in the .uplugin file.
-
-⚠** v1.5 can be obtained by downloading the plugin using a different Engine version and removing the "EngineVersion" line in the .uplugin file.
+Check the [Version compatibility](https://github.com/Urkaz/UnusedNodeCleaner/wiki/Version-compatibility) wiki page
 
 ## Changelog
 
 **Version 1.5**
 - Bug Fixes:
    - Fix Timeline component nodes being deleted if not connected to anything.
-   - Fix build error on Debug configuraiton.
+   - Fix build error on Debug configuration.
 
 **Version 1.4**
 - Bug Fixes:
