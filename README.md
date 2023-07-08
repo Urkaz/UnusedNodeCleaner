@@ -21,6 +21,13 @@ Check the [Version compatibility](https://github.com/Urkaz/UnusedNodeCleaner/wik
 
 ## Changelog
 
+**Version 2.0 (For UE 5.3)**
+- New:
+   - Behavior Tree editor support.
+- Planned (in development):
+   - Animation Blueprint AnimGraph support.
+   - EQS editor support.
+
 **Version 1.5**
 - Bug Fixes:
    - Fix Timeline component nodes being deleted if not connected to anything.
@@ -38,7 +45,7 @@ Check the [Version compatibility](https://github.com/Urkaz/UnusedNodeCleaner/wik
 - Bug Fixes:
    - Some "pure" macro nodes were treated as unused.
 - Performance:
-   - Optimize Composite Nodes handling.
+   - Optimize Composite Node handling.
    - Optimize node type filtering to avoid.
 - New:
    - Animation Blueprint Event Graph support.
@@ -48,7 +55,6 @@ Check the [Version compatibility](https://github.com/Urkaz/UnusedNodeCleaner/wik
    - Button visibility on Breakpoint.
    - Node appearance when using Ctrl+Z to undo operations.
    - Composite Node handling.
-   - Incorrect focused graph when viewing sub graphs.
 
 **Version 1.0**
 - Features:
