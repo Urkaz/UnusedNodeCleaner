@@ -21,12 +21,12 @@ Check the [Version compatibility](https://github.com/Urkaz/UnusedNodeCleaner/wik
 
 ## Changelog
 
-**Version 2.0 (For UE 5.3)**
+**Version 2.0**
 - New:
-   - Behavior Tree editor support.
-   - EQS editor support (Probably not available in UE 5.3 due to an engine bug).
    - Animation Blueprint AnimGraph support.
    - Animation State Machine support.
+   - Behavior Tree editor support (Only available on UE5.3).
+   - EQS editor support (Probably not available in UE5.3 due to an engine bug).
 
 **Version 1.5**
 - Bug Fixes:
