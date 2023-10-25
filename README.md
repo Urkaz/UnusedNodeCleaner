@@ -21,6 +21,10 @@ Check the [Version compatibility](https://github.com/Urkaz/UnusedNodeCleaner/wik
 
 ## Changelog
 
+**Version 2.1**
+- Bug Fixes:
+   - Fixed a crash when adding a Button event from the UMG editor.
+
 **Version 2.0**
 - New:
    - Animation Blueprint AnimGraph support.
