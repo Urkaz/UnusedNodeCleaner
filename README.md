@@ -21,11 +21,6 @@ Check the [Version compatibility](https://github.com/Urkaz/UnusedNodeCleaner/wik
 
 ## Changelog
 
-**Version 2.2**
-- New:
-   - Keyboard shortcut for "Clean Nodes": Ctrl+Shift+C
-   - Keyboard shortcut for "Hide Unused": Ctrl+Shift+H
-
 **Version 2.1**
 - Bug Fixes:
    - Fixed a crash when adding a Button event from the UMG editor.
