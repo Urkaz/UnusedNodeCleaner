@@ -7,19 +7,24 @@
 
 ## How to use
 
-**Unused Node Cleaner** can be purchased on the [Unreal Engine marketplace](https://www.unrealengine.com/marketplace/en-US/slug/unused-node-cleaner).
+**Unused Node Cleaner** can be purchased on the [Unreal Engine Marketplace](https://www.unrealengine.com/marketplace/en-US/slug/unused-node-cleaner).
 
-The plugin only adds two buttons to the Blueprint editor, but you can find more information and see it in action on the wiki [Getting started](https://github.com/Urkaz/UnusedNodeCleaner/wiki/Getting-started).
+The plugin adds two buttons to different blueprint/graph editors that allow cleaning them. Find more information and see it in action on the [Getting Started](https://github.com/Urkaz/UnusedNodeCleaner/wiki/Getting-started) wiki page.
 
-You can find answers to some frequent questions on the wiki: [FAQ](https://github.com/Urkaz/UnusedNodeCleaner/wiki/FAQ).
+You can find answers to some frequent questions on the [FAQ](https://github.com/Urkaz/UnusedNodeCleaner/wiki/FAQ).
 
 And if you have some problems using the plugin or want to give some feedback, please create a new [Issue](https://github.com/Urkaz/UnusedNodeCleaner/issues/new/choose).
 
 ## Compatible Engine Version
 
-Check the [Version compatibility](https://github.com/Urkaz/UnusedNodeCleaner/wiki/Version-compatibility) wiki page
+Check the [Version compatibility](https://github.com/Urkaz/UnusedNodeCleaner/wiki/Version-compatibility) wiki page.
 
 ## Changelog
+
+**Version 2.2**
+- New:
+   - Keyboard shortcut for "Clean Nodes": Ctrl+Shift+C
+   - Keyboard shortcut for "Hide Unused": Ctrl+Shift+H
 
 **Version 2.1**
 - Bug Fixes:
