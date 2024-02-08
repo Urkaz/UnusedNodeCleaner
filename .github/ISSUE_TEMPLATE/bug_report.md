@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a report to help the plugin
+about: Report a bug or a problem
 title: ''
 labels: bug, pending
 assignees: Urkaz
