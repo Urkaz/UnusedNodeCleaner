@@ -21,6 +21,11 @@ Check the [Version compatibility](https://github.com/Urkaz/UnusedNodeCleaner/wik
 
 ## Changelog
 
+**Version 2.2**
+- New:
+   - Added a keyboard shortcut to execute the "Clean Nodes" action: Ctrl+Shift+C (can be changed in the engine settings).
+   - Added a keyboard shortcut to toggle the "Hide Unused" button: Ctrl+Shift+H (can be changed in the engine settings).
+
 **Version 2.1**
 - Bug Fixes:
    - Fixed a crash when adding a Button event from the UMG editor.
@@ -61,6 +66,6 @@ Check the [Version compatibility](https://github.com/Urkaz/UnusedNodeCleaner/wik
    - Composite Node handling.
 
 **Version 1.0**
-- Features:
+- New:
    - "Clean Graph" button to remove unused nodes.
    - "Hide Unused" toggle to fade out the unused nodes.
