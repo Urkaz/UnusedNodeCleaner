@@ -1,7 +1,7 @@
 ![Logo Unused Node Cleaner](https://user-images.githubusercontent.com/521864/161403833-2de0e36b-2acb-48f4-b7d0-7ce002cd6cce.gif)
 
 # Unused Node Cleaner
-"Unused Node Cleaner" allows you to clean your blueprints from unused nodes that someone left somewhere and are still there to just distract you.
+"Unused Node Cleaner" allows you to clean your blueprints from unused nodes that someone left somewhere and are still there to distract you.
 
 **WARNING:** While the "Hide Unused" toggle is on, the plugin will disable the "Hide Unrelated" feature as the plugin uses the same engine functions to make the nodes fade out.
 
@@ -19,12 +19,17 @@ And if you have some problems using the plugin or want to give some feedback, pl
 
 Check the [Version compatibility](https://github.com/Urkaz/UnusedNodeCleaner/wiki/Version-compatibility) wiki page.
 
+## Roadmap
+
+* Project-wide cleaning: Right-clicking a folder will allow you to clean all graphs from all supported assets contained in it.
+* More Graphs: MetasoundEditorGraph?, SoundCue?, NiagaraGraph?
+
 ## Changelog
 
 **Version 2.2**
 - New:
-   - Added a keyboard shortcut to execute the "Clean Nodes" action: Ctrl+Shift+C (can be changed in the engine settings).
-   - Added a keyboard shortcut to toggle the "Hide Unused" button: Ctrl+Shift+H (can be changed in the engine settings).
+   - Added a keyboard shortcut to execute the "Clean Nodes" action: **Ctrl+Shift+C** (can be changed in the engine settings).
+   - Added a keyboard shortcut to toggle the "Hide Unused" button: **Ctrl+Shift+H** (can be changed in the engine settings).
 
 **Version 2.1**
 - Bug Fixes:
