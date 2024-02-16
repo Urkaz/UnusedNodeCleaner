@@ -21,10 +21,15 @@ Check the [Version compatibility](https://github.com/Urkaz/UnusedNodeCleaner/wik
 
 ## Roadmap
 
-* Project-wide cleaning: Right-clicking a folder will allow you to clean all graphs from all supported assets contained in it.
 * More Graphs: MetasoundEditorGraph?, SoundCue?, NiagaraGraph?
 
 ## Changelog
+
+**Version 2.3 (Coming Soon)**
+- New:
+   - Project-wide cleaning: A new option is available in the Right-click menu from the Content Browser to clean the graphs of multiple assets at once.
+      - Right-click a folder in the Content Browser to clean the graphs of that folder.
+      - Right-click anywhere in the Content Browser without selecting anything to run the cleaner in the current folder.
 
 **Version 2.2**
 - New:
