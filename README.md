@@ -25,7 +25,7 @@ Check the [Version compatibility](https://github.com/Urkaz/UnusedNodeCleaner/wik
 
 ## Changelog
 
-**Version 2.3 (Coming Soon)**
+**Version 2.3**
 - New:
    - Project-wide cleaning: A new option is available in the Right-click menu from the Content Browser to clean the graphs of multiple assets at once.
       - Right-click a folder in the Content Browser to clean the graphs of that folder.
