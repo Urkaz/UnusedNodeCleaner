@@ -22,6 +22,7 @@ Check the [Version compatibility](https://github.com/Urkaz/UnusedNodeCleaner/wik
 ## Roadmap
 
 * More Graphs: MetasoundEditorGraph?, SoundCue?, NiagaraGraph?
+* Project-wide report before cleaning?
 
 ## Changelog
 
