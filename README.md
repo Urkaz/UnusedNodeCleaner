@@ -26,6 +26,12 @@ Check the [Version compatibility](https://github.com/Urkaz/UnusedNodeCleaner/wik
 
 ## Changelog
 
+**Version 2.4**
+- Bug Fixes:
+   - Project-wide cleaning crashes related to "Conduit" and "Transition" graphs from State Machine graphs.
+   - State Machine "State Alias" nodes are handled correctly now.
+   - Fixed a build warning related to the "EnvironmentQueryEditor" plugin.
+
 **Version 2.3**
 - New:
    - Project-wide cleaning: A new option is available in the Right-click menu from the Content Browser to clean the graphs of multiple assets at once.
