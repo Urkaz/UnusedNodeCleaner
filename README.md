@@ -7,7 +7,7 @@
 
 ## How to use
 
-**Unused Node Cleaner** can be purchased on the [Unreal Engine Marketplace](https://www.unrealengine.com/marketplace/en-US/slug/unused-node-cleaner).
+**Unused Node Cleaner** can be purchased on [fab.com](https://www.fab.com/listings/e3d7a5b3-4696-4056-84d7-8d9c63954748).
 
 The plugin adds two buttons to different blueprint/graph editors that allow cleaning them. Find more information and see it in action on the [Getting Started](https://github.com/Urkaz/UnusedNodeCleaner/wiki/Getting-started) wiki page.
 
@@ -18,11 +18,6 @@ And if you have some problems using the plugin or want to give some feedback, pl
 ## Compatible Engine Version
 
 Check the [Version compatibility](https://github.com/Urkaz/UnusedNodeCleaner/wiki/Version-compatibility) wiki page.
-
-## Roadmap
-
-* More Graphs: MetasoundEditorGraph?, SoundCue?, NiagaraGraph?
-* Project-wide report before cleaning?
 
 ## Changelog
 
